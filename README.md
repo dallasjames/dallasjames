@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ca.slack-edge.com/ESZCHB482-W012JHRKY0J-69d20df3f3c3-512"/>
+  <img src="https://ca.slack-edge.com/ESZCHB482-W012JHRKY0J-c5ce31c44657-512"/>
 <p/>
 I’m currently working on a push button assistant<br/>
 I’m currently learning Python<br/>
