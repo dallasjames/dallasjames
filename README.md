@@ -8,4 +8,5 @@
 - 👍 Stack includes JavaScript | Python | HTML | CSS | LESS | React | Redux| Node | SQL | Vercel | NoSQL
 - 💊 Coding the Matrix
 - 🎣 I also enjoy hunting and fishing
-- 🖥 Contact me <a href="mailto:dallasjames42@gmail.com">here</a> at dallasjames42@gmail.com
+- 🖥 Contact me <a href="mailto:dallasjames42@gmail.com">here</a> at dallasjames42@gmail.com 
+- 🤝 Connect with me on <a href="https://www.linkedin.com/in/dallasjames/">LinkedIn</a> 
